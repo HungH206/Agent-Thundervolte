@@ -3,7 +3,9 @@ A submission for DigitalOcean Gradient AI Hackathon
 
 
 ⚡ AGENT THUNDERVOLTE: AI Energy Arbitrage & Load-Shifting Agent
+
 📌 Overview
+
 THUNDERVOLTE is an intelligent decision-support agent designed for high-consumption businesses (factories, data centers) to minimize energy costs. By analyzing real-time grid "Spot Prices" and historical trends, THUNDERVOLTE recommends when to consume power, when to draw from industrial batteries, and when to shift heavy machinery loads to off-peak hours.
 
 Built for the DigitalOcean Gradient™ AI Hackathon.
