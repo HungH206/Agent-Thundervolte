@@ -11,6 +11,7 @@ THUNDERVOLTE is an intelligent decision-support agent designed for high-consumpt
 Built for the DigitalOcean Gradient™ AI Hackathon.
 
 🚀 The Problem
+
 Energy prices fluctuate wildly based on grid demand, weather, and supply. Businesses often pay "Peak" prices (up to 5x higher than off-peak) because they lack the tools to:
 
 Predict when those peaks will occur.
@@ -20,6 +21,7 @@ Translate complex grid data into actionable operational shifts.
 Manage "Behind-the-Meter" assets (like batteries) autonomously.
 
 🧠 The Strategy (How it Works)
+
 Our project uses a Multi-Stage Agentic Workflow:
 
 Data Ingestion: Scrapes or pulls "Day-Ahead" energy pricing data (using simulated or historical CSV data for the demo).
@@ -31,6 +33,7 @@ Persona-Driven Recommendation: The agent acts as a "Virtual Energy Manager," pro
 Cost-Benefit Reporting: Calculates projected savings based on the suggested actions.
 
 🛠️ Tech Stack
+
 AI Infrastructure: DigitalOcean Gradient™ AI (for high-speed model inference).
 
 Storage: DigitalOcean Spaces (to store historical pricing datasets for RAG).
